@@ -1,5 +1,6 @@
 <p align="center">
-  <b>Proje: KRISS USA INC. | Microsoft PowerPoint ile Animasyonlu Sunum</b>
+  <b>Proje</b><br>
+  KRISS USA INC. | Microsoft PowerPoint ile Animasyonlu Sunum</b>
 </p>
 
 ---
